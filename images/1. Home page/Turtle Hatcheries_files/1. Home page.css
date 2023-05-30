@@ -1,0 +1,52 @@
+
+#mainheading{
+    background: linear-gradient(to left,rgb(46, 46, 221),rgb(77, 204, 243),blue);
+    background-image:url("./turtle-scaled.jpg");
+    background-blend-mode:overlay;
+    background-size:cover;
+    height: 450px;
+    padding-top: 180px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    font-style: italic;
+    text-align: center;
+}
+
+#nav{
+    background: rgb(31, 28, 28);
+    background-color: black;
+    background-blend-mode: multiply;
+    text-align: center;
+    color: rgb(233, 230, 229);
+    margin-top: 3pt;
+    margin-right: 15pt;
+}
+    
+
+#section2{
+    background-color: rgb(143, 185, 248);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size
+}
+
+#photo1{
+    float: left;
+    margin-right: 10pt;
+    margin-top: 10pt;
+    margin-bottom: 10pt;
+    margin-left: 5pt;
+}
+
+
+#SLturtles{
+    background-color:rgb(143, 185, 248);
+}
+
+#photo2{
+    float: right;
+}
+
+
+#footer{
+    text-align: center;    
+}
