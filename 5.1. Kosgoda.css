@@ -9,7 +9,8 @@
 
 * {
     box-sizing:border-box;
-    margin:0
+    margin:0;
+    zoom: 1;
 }body p, h1, h2{
     color: rgb(0, 0, 0);
 }p{
