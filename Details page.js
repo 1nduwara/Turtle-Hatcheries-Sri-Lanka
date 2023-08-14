@@ -70,7 +70,7 @@ function redirection(event)
     if (theform.checkValidity() && email.value === cemail.value)
     {
         event.preventDefault();
-        link.setAttribute("href", "./Payments Page.html")
+        link.setAttribute("href", "./Payments page.html")
         cemail.style.color="black"
         link.click();
     }
