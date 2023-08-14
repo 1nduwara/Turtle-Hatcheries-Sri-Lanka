@@ -7,9 +7,7 @@
 
 * {
     box-sizing:border-box;
-    margin:0;
-    zoom: 1;
-        
+    margin:0
 }
 
 
@@ -191,6 +189,19 @@
     width:2;
  }.section2 h1{
     font-size: 35pt;
+ }.section2 button{
+    padding:2%;
+    margin: 5%;
+    font-size: 20pt;
+    font-family: bruno ace sc;
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: 1px 2px 10px ;
+    transition-duration: 0.5s;
+    transition-delay: 0.05s;
+ }.section2 button:hover{
+    transform: scale(1.1);
+    box-shadow: 1px 2px 40px black;
  }
 
 
